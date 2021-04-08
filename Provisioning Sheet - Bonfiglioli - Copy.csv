@@ -1,0 +1,31 @@
+Products Subscribed,,,
+"webmethods.io Integration, webMethods API Gateway, webMethods API Management, webMethods API Portal, webMethods End-to-End Monitoring",,,
+,,,
+Basic Details,,,
+First Name,Fabio,,
+Last Name,Zoboli,,
+Company,Bonfiglioli SPA,,
+Work Email,fabio.zoboli@bonfiglioli.com,,
+Username,fabio.zoboli@bonfiglioli.com,,"Same as ""Work Email"" by default"
+Cloud Region,AZURE-EU,,Select a Region from dropdown
+Country,Italy,,
+Phone number (Optional),+39 349-8555149,,
+Terms and Conditions,See Worksheet T&Cs,,
+Data Processing Agreement,See Worksheet DPA,,
+Contract End Date,30-May-21,,
+Environment Details,,,
+Environment,Environment Name,"""Environment name"" will be your subdomain. If you choose ""mycompany"" as your environment name you can access your environment as https://mycompany.softwareag.cloud. Only alphanumeric and maximum 20 characters are allowed. Example mycompanydev, mycompanypreprod etc
+
+The ""Environment Name"" is same for all products that you are entitled for. Some products are not entitled for all enviornments mentioned. Pls check your contract for details.
+Depending on the number of API Portals in the contract, the API Gateway environments will be associated with the API Portals starting with the Production environment and then the lower environments.",
+DEV,bonfigliolidev,,
+TEST,bonfigliolitest,,
+PROD,bonfiglioli,,
+,,,
+Existing Free Trial Tenant(s),,,
+Is there an active free trial tenant?,n,y / n,
+Tenant name of active free trial,,,
+Do you want to migrate users?,n,y / n,
+"If yes, to which new environment?",,,
+Do you want to migrate assets?,n,y / n,
+"If yes, to which new environment?",,,
